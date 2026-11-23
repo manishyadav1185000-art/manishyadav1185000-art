@@ -31,6 +31,17 @@ I'm an Artificial Intelligence & Data Science student at Poornima University, in
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## 🚀 Featured Project
+
+### 🌊 FloodMinds AI
+
+AI-Based Flash Flood Prediction and Early Warning System for Hilly Regions.
+
+**Technologies:** Python | Machine Learning | FastAPI | GIS
+
+[View Project](https://github.com/poornimagarg02-del/FloodMinds-AI-2026)
+
+---
 
 ## 📊 GitHub Statistics
 
